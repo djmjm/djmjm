@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning Java, springboot, hibernate and relational database, focused mainly on web development.
 - 📫 Send me an email: douglasjanovikmaliszewski@gmail.com
 
-[![Douglas's GitHub stats](https://github-readme-stats.vercel.app/api?username=djmjm&hide=stars,issues,contribs&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djmjm&hide=c&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
