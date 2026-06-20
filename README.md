@@ -1,3 +1,5 @@
+![Douglas Janovik Maliszewski](https://media.licdn.com/dms/image/v2/D4D16AQGSlUdPhBay8g/profile-displaybackgroundimage-shrink_350_1400/B4DZ6pKIwbG8AU-/0/1780954467592?e=1783555200&v=beta&t=VfUgLMggrk9H7caNb4fM5Jk56C8dOQHe-_108DN-fKg)
+
 Olá, me chamo Douglas. 
 Sou desenvolvedor de software com foco em desenvolvimento de aplicativos web. Trabalho com tecnologias como Java e Node.js. 
 Também sou graduado em Ciência da Computação pela Universidade Federal de Pelotas. 
