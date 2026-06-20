@@ -7,5 +7,6 @@ Hello, my name is Douglas.
 I am a software developer focused on web application development. I work with technologies such as Java and Node.js. I am also a graduate in Computer Science from the Federal University of Pelotas (UFPel). I have professional experience in the field, particularly in server-side application development, such as API implementation and database management (MongoDB and PostgreSQL).
 
 https://www.linkedin.com/in/djmjm/
+https://www.djmdev.com/
 
 
